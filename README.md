@@ -31,17 +31,17 @@ My ethical responsibility is to design systems that are accurate, reliable, secu
 In reinforcement learning projects like this one, ethical responsibility includes making sure the model performs as expected and does not create unreliable or unsafe outcomes. In real-world applications such as cybersecurity, healthcare, or financial systems, poor AI decisions can have serious consequences. Human oversight remains important because AI should be used as a tool to support decision-making, not fully replace responsible human judgment.
 
 **Skills Demonstrated**
-Reinforcement Learning
-Deep Q-Learning (DQN)
-Neural Networks
-TensorFlow
-Python
-Jupyter Notebook
-Experience Replay
-Target Networks
-Algorithm Optimization
-Problem Solving
-Debugging and Testing
+Reinforcement Learning,
+Deep Q-Learning (DQN),
+Neural Networks,
+TensorFlow,
+Python,
+Jupyter Notebook,
+Experience Replay,
+Target Networks,
+Algorithm Optimization,
+Problem Solving,
+Debugging and Testing,
 Course Reflection
 
 This project was one of the strongest examples of applied artificial intelligence in the course because it combined theory with practical implementation. It strengthened my understanding of how machine learning models make decisions and how reinforcement learning can be used for pathfinding and decision-based environments.
